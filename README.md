@@ -1,5 +1,7 @@
 #Sentiment analysis-NLP Application
+
 *This programm calculates polarity and similarity of reviews of amazon users. It also create the word cloud of positive and negative words used by reviewers*
+
 📌 Index
 
   *Requirements
