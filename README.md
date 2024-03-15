@@ -1,6 +1,1 @@
-Project name: Sentiment analysis-NLP Application
-📌 Index
-Description of project:
-Table of contents:
-Installation section:
-usage section including screenshots:
+Sentiment analysis-NLP Application
