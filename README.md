@@ -15,10 +15,15 @@
 This program requires the following modules:
 
 *pandas
+
 *spaCy
+
 *spaCy English Medium Model
+
 *textBlob
+
 *WordCloud
+
 *matplotlib.pyplot
 
 📌 Installation
