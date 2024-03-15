@@ -1,1 +1,8 @@
-Sentiment analysis-NLP Application
+#Sentiment analysis-NLP Application
+##📌 Index
+  ###Requirements
+  ###Installation
+  ###Configuration
+##📌 Requirements
+##📌 Installation
+##📌 Configuration
